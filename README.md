@@ -34,5 +34,5 @@ PhishGuard is a **Python-based phishing URL detection tool** with a **hacker-sty
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<username>/phishguard.git
+git clone https://github.com/CyberSh3ll-oss/phishguard.git
 cd phishguard
