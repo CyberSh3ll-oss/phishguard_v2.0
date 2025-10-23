@@ -35,4 +35,8 @@ PhishGuard is a **Python-based phishing URL detection tool** with a **hacker-sty
 
 ```bash
 git clone https://github.com/CyberSh3ll-oss/phishguard.git
-cd phishguard
+cd phishguard_v2.0
+sudo apt-get install python3-tk
+python3 free_check.py (if you want the free version)
+python3 premium.py (if you have the access to the premium version)
+
